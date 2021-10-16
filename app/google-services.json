@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "492913062434",
+    "project_id": "mymemoy-manun",
+    "storage_bucket": "mymemoy-manun.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492913062434:android:0e66209ed24b66b953907b",
+        "android_client_info": {
+          "package_name": "io.manun.mymemory"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492913062434-3ppjhdhia8m0n5iqkpbi6brmicfhfhoa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcBfmNRsNevOGWM1UlC9pnvFy5RV84xL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492913062434-3ppjhdhia8m0n5iqkpbi6brmicfhfhoa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
